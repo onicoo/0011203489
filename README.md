@@ -1,7 +1,7 @@
 # 0011203489
 //juego en javascript
 
-Este es un pequeño proyecto cuyo objetivo es la creación de un pequeño rpg.
+Este es un pequeño proyecto cuyo objetivo es la creación de un rpg.
 Como elementos de dibujo usa la biblioteca p5.js
 No pretende nada sofisticado y está orientado principalmente al aprendizaje: su valor principal se derivará de la trama, 
 de caracter irónico y ambientada en una universidad.
